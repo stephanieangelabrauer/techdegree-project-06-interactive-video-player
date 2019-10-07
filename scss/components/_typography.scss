@@ -1,0 +1,12 @@
+.container {
+  font-family: $font-stack;
+  font-size: $base__font-size;
+  font-style: normal;
+  font-weight: 400;
+  line-height: $base__line-height;
+}
+
+.active {
+  font-weight: 700;
+  color: $tomato;
+}
